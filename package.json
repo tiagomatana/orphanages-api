@@ -2,7 +2,7 @@
   "name": "orphanages-api",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "GNU",
+  "license": "GPL",
   "scripts": {
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts",
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
